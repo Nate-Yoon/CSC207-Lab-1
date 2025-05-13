@@ -1,6 +1,6 @@
 public class Reduce {
     public static void main(String[] args) {
-        System.out.println(stepCounter(5));
+        System.out.println(stepCounter(1));
     }
 
     public static int stepCounter(int n) {
