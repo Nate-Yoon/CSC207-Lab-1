@@ -349,7 +349,7 @@ Starting with a number n, if n is even divide it by 2. If n is odd, subtract 1. 
 For example, if you start with n = 2, the answer is 2.
 Details: 2 (even, divide by 2) --> 1 (odd, subtract 1) --> 0.[ ]
 
-- [X]   In `Reduce.java`, write a main method that prints how many steps it takes to reach 0 if you start at 100.
+- [X]  In `Reduce.java`, write a main method that prints how many steps it takes to reach 0 if you start at 100.
   Add this file to your project, commit, and push. If you don't get the right answer, that's okay for now.
   This is to get you to practice. You'll have until the end of the week to work out the details and
   submit your working code on MarkUs.
@@ -399,6 +399,7 @@ We'll briefly summarize two approaches you might take for this:
    you are requesting that, roughly speaking, the original repository do a `git pull` to pull in your commits. We'll talk
    more about pull requests later, but feel free to try it out now by following the instructions that
    appear when you click the button to contribute.
+5. akdsfjklasdjklfkjdasajkljkadsfkjl;adsjknfjlk;dfsjkl;fdsjklfadsl;jkfalksasdfjlfdasjkrhjgjklsadfjn dfjkjkasdjkfasjlk;sdf;jkldfsklj;dfdhjkbdjkfsjkdskljdsjkh
 
 ### Giving someone else direct access to your GitHub repository
 
